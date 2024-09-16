@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Course%20Image.png))
+![Course Image](https://raw.githubusercontent.com/rinabuoy/Practical-Applications-in-Machine-Learning/main/Course%20Image.png)
 
 
 # Practical Applications in Machine Learning

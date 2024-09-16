@@ -50,6 +50,8 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (3) [Pytorch](https://colab.research.google.com/drive/1FERNv6t8xpX9Nly_JdnePWEPllI7F3Fx?usp=sharing)
 
+(4) [CS50](https://cs50.harvard.edu/python/2022/)
+
 **Neural Networks**
 
 (1) [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)

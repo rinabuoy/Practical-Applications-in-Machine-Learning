@@ -21,3 +21,5 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
+This course content is licensed under the MIT License.

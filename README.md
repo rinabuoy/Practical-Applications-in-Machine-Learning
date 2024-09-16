@@ -19,7 +19,7 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning.git
+   cd Practical-Applications-in-Machine-Learning
 
 This course content is licensed under the MIT License.

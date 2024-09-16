@@ -29,15 +29,25 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 
 ## Additional Materials:
+
 **Probability**
+
 (1) [CS229](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review.pdf)
+
 (2) [3Blue1Brown](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
+
 **Linear Algebra** 
+
 (1) [CS229](https://cs229.stanford.edu/notes2024summer/cs229-linear_algebra.pdf)
+
 (2) [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 **Python** 
+
 (1) [Python](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
+
 (2) [Numpy](https://cs231n.github.io/python-numpy-tutorial/)
+
 (3) [Pytorch](https://colab.research.google.com/drive/1FERNv6t8xpX9Nly_JdnePWEPllI7F3Fx?usp=sharing)
 
 This course content is licensed under the MIT License.

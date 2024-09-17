@@ -30,6 +30,12 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 ## Additional Materials:
 
+**Textbooks** 
+
+(1) [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+
+(2) [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
 **Probability**
 
 (1) [CS229](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review.pdf)
@@ -59,5 +65,11 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 (2) [Zero-to-Hero by Andrey Kaparthy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 This course content is licensed under the MIT License.
+
+**Other tools**
+
+(1) [Missing Semester (Git, Command-line)](https://missing.csail.mit.edu/)
+
+
 
 

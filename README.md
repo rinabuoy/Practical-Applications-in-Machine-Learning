@@ -15,7 +15,7 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 | **Week** | **Topic** | **Description** | **Readings/Resources** | **Labs** | **Assignments** |
 |----------|------------|-----------------|-----------------------|-----------------|-----------------|
-| Week 1   | Introduction | Overview of ML | Link to Readings/Resources| Reviewing | TBA |
+| Week 1   | Introduction | Overview of ML | [Link to Readings/Resources](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Reading%20Materials/Introduction.pdf)| Reviewing | TBA |
 | Week 2   | Linear Regression  | Linear Regression in Details | [Link to Readings/Resources](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Reading%20Materials/Linear%20Regression.pdf)| [Linear Regression](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Notebooks/Linear%20Regression.ipynb);[Regularization](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Notebooks/Regularization%20and%20Cross-Validation.ipynb) | TBA |
 
 ---

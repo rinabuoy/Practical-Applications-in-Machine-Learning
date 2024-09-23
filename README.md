@@ -15,8 +15,9 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 | **Week** | **Topic** | **Description** | **Readings/Resources** | **Labs** | **Assignments** |
 |----------|------------|-----------------|-----------------------|-----------------|-----------------|
-| Week 1   | Introduction & Linear Regression  | Overview of ML & Linear Regression | Link to Readings/Resources| Lab 1 | TBA |
-
+| Week 1   | Introduction | Overview of ML | Link to Readings/Resources| Lab 1 | TBA |
+|----------|------------|-----------------|-----------------------|-----------------|-----------------|
+| Week 2   | Linear Regression  | Linear Regression in Details | Link to Readings/Resources| Lab 1 | TBA |
 
 ---
 

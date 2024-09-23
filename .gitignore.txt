@@ -1,0 +1,2 @@
+Intro_General.pptx
+Lecture 2 - Linear Regression, Regularization and Cross-Validation.pptx

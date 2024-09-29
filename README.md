@@ -66,7 +66,7 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 **HuggingFace**
 
-(1) https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm#scrollTo=9EhWoZef-X8u
+(1) [CS224N: Hugging Face Transformers Tutorial (Spring '24) ](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm#scrollTo=9EhWoZef-X8u)
 
 This course content is licensed under the MIT License.
 

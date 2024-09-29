@@ -64,6 +64,10 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (2) [Zero-to-Hero by Andrey Kaparthy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
+**HuggingFace**
+
+(1) https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm#scrollTo=9EhWoZef-X8u
+
 This course content is licensed under the MIT License.
 
 **Other tools**

@@ -16,7 +16,7 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 | **Week** | **Topic** | **Description** | **Readings/Resources** | **Labs** | **Assignments** |
 |----------|------------|-----------------|-----------------------|-----------------|-----------------|
 | Week 1   | Introduction | Overview of ML | [Link to Readings/Resources](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Reading%20Materials/Introduction.pdf)| [Python](https://faculty.washington.edu/otoomet/machinelearning-py/python.html); [Numpy & Pandas](https://faculty.washington.edu/otoomet/machinelearning-py/numpy-and-pandas.html); [Linear Algebra](https://faculty.washington.edu/otoomet/machinelearning-py/la.html) | [Week 1: Homework](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Homeworks/Week%201.ipynb) (Deadline: 30th Sept. 2024)|
-| Week 2   | Linear Regression  | Linear Regression in Details | [Link to Readings/Resources](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Reading%20Materials/Linear%20Regression.pdf)| [Linear Regression](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Notebooks/Linear%20Regression.ipynb);[Regularization](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Notebooks/Regularization%20and%20Cross-Validation.ipynb) | TBA |
+| Week 2   | Linear Regression  | Linear Regression in Details | [Link to Readings/Resources](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Reading%20Materials/Linear%20Regression.pdf)| [Linear Regression](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Notebooks/Linear%20Regression.ipynb);[Regularization](https://github.com/rinabuoy/Practical-Applications-in-Machine-Learning/blob/main/Notebooks/Regularization%20and%20Cross-Validation.ipynb) | Assignment 1 (Kaggle Competition)|
 
 ---
 
@@ -63,6 +63,10 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 (1) [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 (2) [Zero-to-Hero by Andrey Kaparthy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+**HuggingFace**
+
+(1) [CS224N: Hugging Face Transformers Tutorial (Spring '24) ](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm#scrollTo=9EhWoZef-X8u)
 
 This course content is licensed under the MIT License.
 

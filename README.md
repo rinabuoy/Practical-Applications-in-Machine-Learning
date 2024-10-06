@@ -80,6 +80,12 @@ This course content is licensed under the MIT License.
 
 (1) [Missing Semester (Git, Command-line)](https://missing.csail.mit.edu/)
 
+**Inspirational/ General Knowledge Videos** 
+
+(1) [Invention of Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M)
+
+(2) [Invention of QR Code](https://www.youtube.com/watch?v=w5ebcowAJD8)
+
 
 
 

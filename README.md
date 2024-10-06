@@ -40,6 +40,8 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (3) [Deep Learning: Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4)
 
+(4) [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+
 **Probability**
 
 (1) [CS229](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review.pdf)

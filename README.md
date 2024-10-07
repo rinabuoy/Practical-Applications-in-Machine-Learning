@@ -64,6 +64,8 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (4) [CS50](https://cs50.harvard.edu/python/2022/)
 
+(5) [How to Create and Publish Your Own Python Package](https://medium.com/@nydas/how-to-create-and-publish-your-own-python-package-8e4f3fd70506)
+
 **Neural Networks**
 
 (1) [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -74,7 +76,7 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (1) [CS224N: Hugging Face Transformers Tutorial (Spring '24) ](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm#scrollTo=9EhWoZef-X8u)
 
-This course content is licensed under the MIT License.
+
 
 **Other tools**
 
@@ -85,6 +87,10 @@ This course content is licensed under the MIT License.
 (1) [Invention of Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M)
 
 (2) [Invention of QR Code](https://www.youtube.com/watch?v=w5ebcowAJD8)
+
+**License**
+
+This course content is licensed under the MIT License.
 
 
 

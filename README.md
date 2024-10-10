@@ -82,6 +82,11 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (1) [Missing Semester (Git, Command-line)](https://missing.csail.mit.edu/)
 
+(2) [Llama 3.2 Running Locally in VSCode: How to Set It Up with CodeGPT and Ollama](https://medium.com/@dan.avila7/llama-3-2-running-locally-in-vscode-how-to-set-it-up-with-codegpt-and-olla-8d33fd29c195)
+
+(3) [How to run Ollama in Windows via WSL](https://medium.com/@Tanzim/how-to-run-ollama-in-windows-via-wsl-8ace765cee12)
+
+
 **Inspirational/ General Knowledge Videos** 
 
 (1) [Invention of Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M)

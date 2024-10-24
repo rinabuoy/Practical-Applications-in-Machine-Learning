@@ -42,6 +42,8 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (4) [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 
+(5) [Machine Learning with PyTorch and Scikit-Learn Book](https://github.com/rasbt/machine-learning-book)
+
 **Probability**
 
 (1) [CS229](https://cs229.stanford.edu/lectures-spring2022/cs229-probability_review.pdf)

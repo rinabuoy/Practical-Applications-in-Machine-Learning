@@ -78,6 +78,8 @@ Welcome to the **PAML 2024**! This course will cover the foundation and practica
 
 (2) [Zero-to-Hero by Andrey Kaparthy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
+(3) [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://www.youtube.com/watch?v=KJtZARuO3JY&t=313s)
+
 **HuggingFace**
 
 (1) [CS224N: Hugging Face Transformers Tutorial (Spring '24) ](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm#scrollTo=9EhWoZef-X8u)
